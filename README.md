@@ -11,7 +11,7 @@ iOS language localization tool.
 4. Use the < func localized(_ key: String) -> String > function to get the localed text.
 5. Use the < (value as String).language > to get the localed text.
 6. Use the < (value as UIView).language() > to changed this view and it's subviews text.
-    6.1 UILabel's text
-    6.2 UITextField's placeholder
-    6.3 UIButton's title
-    6.4 UISegmentedControl's segment title
+    6.1. UILabel's text
+    6.2. UITextField's placeholder
+    6.3. UIButton's title
+    6.4. UISegmentedControl's segment title
