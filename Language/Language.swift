@@ -54,7 +54,7 @@ extension Language {
     
     /** update current */
     func update(language_type: String) {
-        Language.standard.update(language_type: <#T##String#>)
+        Language.standard.update(language_type: language_type)
         self.language_type = language_type
     }
     
